@@ -1,7 +1,7 @@
 {
   "name": "landing-page",
   "version": "0.1.0",
-  "homepage": "https://notello.github.io/react-gh-pages",
+  "homepage": "https://notello.github.io/LandingPage",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
