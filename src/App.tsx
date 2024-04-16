@@ -92,7 +92,7 @@ function App() {
       </div>
       <div className = "Body sm:h-screen bg-slate-100 flex flex-row justify-center items-center snap-start">
         <div className = "flex-col w-8/12 m-20 justify-center items-center text-center">
-          <p className="text-5xl font-bold">Easily Upload Class Content</p>
+          <p className="text-5xl font-bold m-10">Easily Upload Class Content</p>
           <div className = "flex flex-col justify-center sm:flex-row">
             <div className = "flex flex-col sm:w-96 sm:h-96 border-2 border-slate-400 rounded-lg sm:m-10 items-center mt-10 sm:mt-0">
               <p className="text-3xl font-bold">Record</p>
